@@ -1,4 +1,4 @@
-# python-flightprediction
+# Python flight prediction
 
 The following case study was part of datathon conducted by sastaticket.pk to explore,clean, transform and further processing of ML modeling to predict if is it better to buy a ticket now, or wait for a better price in the future?
 
